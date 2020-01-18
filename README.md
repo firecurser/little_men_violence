@@ -18,7 +18,7 @@
   **Character Design and Development** - Perishiv
    - Perish
    - Shiv
-	- Saumya
+- Saumya
 	
 **Sound and Music** 
 - Saumya
