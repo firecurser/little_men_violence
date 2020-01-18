@@ -2,7 +2,7 @@
 ##  The Team
  **Intergration and Coding:** - Cool Team
  
- - Jude - firecurser
+ - Jude - Firecurser
  - Kabir
 - Saumya
 
@@ -12,13 +12,13 @@
 
  
   **Object Modeling and Animation** - Illustrators
-  -  Tejal
-   - Ashwin
+  -  Tejal - MasterTetano
+  - Ashwin
   
   **Character Design and Development** - Perishiv
    - Perish
    - Shiv
-- Saumya
+   - Saumya
 	
 **Sound and Music** 
 - Saumya
