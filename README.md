@@ -61,7 +61,9 @@ Week 2:
 	- [ ] Hanging Light
 	
 - [ ] *Team Cool*
-	- [ ] Coding Basic character controller script
+	- [x] Coding Basic character controller script
+	- [x] Coding Basic movement script
+	- [ ] Integration character with animation.
 	- [ ] Shooting 
 	- [ ] Integration of stage, characters. 
 
