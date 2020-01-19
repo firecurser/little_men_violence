@@ -3,8 +3,8 @@
  **Intergration and Coding:** - Cool Team
  
  - Jude - Firecurser
- - Kabir
-- Saumya
+ - Kabir - Kabirbropro
+- Saumya - Quitsune
 
  **Stage/Level Design:** - Architects
  - Saahil
@@ -17,11 +17,11 @@
   
   **Character Design and Development** - Perishiv
    - Perish
-   - Shiv
-   - Saumya
+   - Shiv - Xenoscarr
+   - Saumya - Quitsune
 	
 **Sound and Music** 
-- Saumya
+- Saumya - Quitsune
 
 
 ## Project Log:
