@@ -7,7 +7,7 @@
 - Saumya - Quitsune
 
  **Stage/Level Design:** - Architects
- - Saahil
+ - Saahil - SAL778
   - Siddharth
 
  
@@ -45,7 +45,7 @@ Week 2:
 	- [ ]  Ducking
 	- [ ] Rolling
 - [ ] *Team Architects*
-	- [ ] Basic stage and scene design
+	- [x] Basic stage and scene design
 	- [ ] Textures 
 	- [ ] Objects 
 	- [ ] Background 
