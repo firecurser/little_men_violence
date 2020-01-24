@@ -64,7 +64,7 @@ Week 2:
 	- [x] Coding Basic character controller script
 	- [x] Coding Basic movement script
 	- [ ] Integration character with animation.
-	- [ ] Shooting 
+	- [x] Shooting 
 	- [ ] Integration of stage, characters. 
 
 
@@ -75,6 +75,7 @@ Week 2:
 
  - Portals
  - Imposter - Crew Mode
+ - Blood weapon
 
 #### Saahil
 
