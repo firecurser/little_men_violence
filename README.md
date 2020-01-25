@@ -54,11 +54,11 @@ Week 2:
 - [ ] *Team Illustrators*
 	- [ ] Objects, Modeling and creation
 	- [ ] Objects required by architects created 
-	- [ ] Wooden Box
+	- [x] Wooden Box
 	- [ ] Steel Cylinder
-	- [ ] Explosive Cylinder
-	- [ ] Large Wooden Container
-	- [ ] Hanging Light
+	- [x] Explosive Cylinder
+	- [x] Large Wooden Container
+	- [x] Hanging Light
 	
 - [ ] *Team Cool*
 	- [x] Coding Basic character controller script
