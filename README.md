@@ -76,6 +76,7 @@ Week 2:
  - Portals
  - Imposter - Crew Mode
  - Blood weapon
+ - Fancypants 
 
 #### Saahil
 
